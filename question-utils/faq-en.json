@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "question": "Who can get reimbursement for glasses or contact lenses?",
+        "answer": "All EOPYY insured persons who have a medical opinion from an ophthalmologist and meet the organization's conditions (e.g., have not received compensation for glasses in the last 4 years)."
+    },
+    {
+        "id": 1,
+        "question": "What amount does EOPYY cover?",
+        "answer": "100 euros for eyeglasses and a certain amount for contact lenses, depending on the condition and needs (eg, keratoconus)."
+    },
+    {
+        "id": 2,
+        "question": "Does the optical shop have to be contracted with EOPYY?",
+        "answer": "Not necessarily. If the store is contracted, the compensation amount can be deducted directly from your account. If it is not contracted, you will have to pay the total amount and apply for compensation to EOPYY."
+    },
+    {
+        "id": 3,
+        "question": "How do I apply for compensation?",
+        "answer": "Electronically through the e-DAPY platform, or physically at the EOPYY offices in your area, providing all the necessary supporting documents."
+    },
+    {
+        "id": 4,
+        "question": "How often can I receive compensation?",
+        "answer": "Every 4 years for eyeglasses and every 2 years for contact lenses (unless there is a specific condition)."
+    }
+]

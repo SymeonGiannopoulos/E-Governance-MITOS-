@@ -1,0 +1,72 @@
+{
+    "PublicService": {
+        "name": "Compensation for optics (glasses or contact lenses)",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Invoice / Optical Payment Receip",
+                        "description": "Invoice/proof of purchase indicator."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Optician's certificate for the performance of the opinion",
+                        "description": "Ophthalmologist's certificate of opinion."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Proof of bank account IBAN",
+                        "description": "Copy of IBAN bank account."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Proof of AMKA insurance",
+                        "description": "Proof of AMKA of the interested party."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "evs": [
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "Proof of VAT number of the interested party",
+                        "description": "Tax identification number certificate of the interested party."
+                    }
+                ]
+            }
+        ],
+        "criterion_requirements": [
+            {
+                "id": "cr0001",
+                "name": "Insured EOPYY"
+            },
+            {
+                "id": "cr0002",
+                "name": "Non-receipt of compensation for optical glasses for 4 years or contact lenses for 2 years"
+            }
+        ]
+    }
+}

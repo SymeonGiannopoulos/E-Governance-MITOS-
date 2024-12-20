@@ -1,0 +1,49 @@
+[
+    {
+        "id": 0,
+        "question": "Are you insured with EOPYY?",
+        "options":["Yes", "No"]
+    },
+    {
+        "id": 1,
+        "question": "Do you have a medical opinion from an eye doctor describing the need for optics?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 2,
+        "question": "Has the opinion been registered electronically in the EOPYY system?",
+        "options":["Yes", "No","I don't know"]
+        
+    },
+    {
+        "id": 3,
+        "question": "Do you suffer from a specific vision-related condition (eg keratoconus)?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 4,
+        "question": "What do you need?",
+        "options":["Glasses","Contact lens","Both"]    
+    },
+    {
+        "id": 5,
+        "question": "Have you been reimbursed for optics by EOPYY before?",
+        "options": ["Yes", "No"]
+        
+    },
+    {
+        "id": 6,
+        "question": "If so, when did you receive the last compensation?",
+        "options": ["Less than 2 years ago","2-4 years ago","More than 4 years ago"]
+    },
+    {
+        "id": 7,
+        "question": "Do you have a purchase receipt or invoice from an optical shop?",
+        "options":  ["Yes", "No"]
+    },
+    {
+        "id": 8,
+        "question": "Was the store contracted with EOPYY",
+        "options": ["Yes", "No","I don't know"]
+    }
+]
